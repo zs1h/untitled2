@@ -7,7 +7,7 @@ public class Service {
         MeterRegistry registry = new SimpleMeterRegistry();
     }
     public void test(){
-
+        System.out.println("ds");
     }
 
 }
