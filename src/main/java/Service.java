@@ -6,8 +6,8 @@ public class Service {
     public static void main(String[] args) {
         MeterRegistry registry = new SimpleMeterRegistry();
     }
-
-    public <T extends Number> T gauge(){
+    public void test(){
 
     }
+
 }
